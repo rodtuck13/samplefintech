@@ -20,7 +20,7 @@ Hello, we are working with md syntax.
 
 # Markdown Syntax Activity
 
-![Pizza](https://www.istockphoto.com/photo/tasty-pepperoni-pizza-and-cooking-ingredients-tomatoes-basil-on-black-concrete-gm1083487948-290669894)
+![Pizza](https://www.simplyrecipes.com/wp-content/uploads/2019/09/easy-pepperoni-pizza-lead-4-600x840.jpg)
 
 ## This Activity is an Example
 ### Table of Contents
