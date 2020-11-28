@@ -1,8 +1,13 @@
-# samplefintech
+# Heading
+## Sub-Heading and so on and so forth
+Hello, we are working.
 
-Hello guys this is a test 
-Never dance with your eyes closed
+Hello, we are working.
 
-I am doing my thing with this GitBash.  Yeah Yeah !!
+Hello, we are working with md syntax.
 
-Test
+- First
+- Second
+- Third
+    - Third A
+    - Third B
