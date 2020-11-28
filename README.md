@@ -20,11 +20,11 @@ Hello, we are working with md syntax.
 
 # Markdown Syntax Activity
 
-! [Pizza] (https://www.istockphoto.com/photo/tasty-pepperoni-pizza-and-cooking-ingredients-tomatoes-basil-on-black-concrete-gm1083487948-290669894)
+![Pizza](https://www.istockphoto.com/photo/tasty-pepperoni-pizza-and-cooking-ingredients-tomatoes-basil-on-black-concrete-gm1083487948-290669894)
 
 ## This Activity is an Example
 ### Table of Contents
 
-- [Read Me] (https://github.com/rodtuck13/samplefintech/blob/main/README.md)
+- [Read Me](https://github.com/rodtuck13/samplefintech/blob/main/README.md)
 
 
